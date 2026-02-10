@@ -21,7 +21,8 @@ A escolha do stack tecnológico baseia-se na robustez e nos requisitos da discip
 * **Arquitetura:** REST com padrão MV*
 * **Persistência de Dados:** PostgreSQL (Relacional)
 * **Controle de Versão:** Git
-* **Conceitos Aplicados:** * Inversão de Controle (IoC) e Injeção de Dependência (ID).
+* **Conceitos Aplicados:**
+    * Inversão de Controle (IoC) e Injeção de Dependência (ID).
     * Padrões de Projeto (Singleton para conexão com DB, Strategy para regras de frete).
     * Desenvolvimento orientado a testes (TDD).
 

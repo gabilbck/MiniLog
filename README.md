@@ -37,7 +37,3 @@ Conforme o cronograma quinzenal:
 - [ ] Implementação do CRUD de CDs
 - [ ] Implementação da Transação de Pedidos
 - [ ] Testes Unitários e Deploy
-
-## 👥 Integrantes
-* **Nome do Aluno 1** - [GitHub Profile Link]
-* **Nome do Aluno 2 (se houver)** - [GitHub Profile Link]

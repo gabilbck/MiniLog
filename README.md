@@ -4,7 +4,7 @@
 
 ## 1. Descrição do Projeto
 
-O **IceDistribution** é uma aplicação web desenvolvida para gerenciar a produção e distribuição de sorvetes de uma fábrica central para suas lojas na cidade.
+O **AÍ 'SE CREAM** é uma aplicação web desenvolvida para gerenciar a produção e distribuição de sorvetes de uma fábrica central para suas lojas na cidade.
 
 O sistema permite registrar lotes de produção e distribuir quantidades específicas para lojas cadastradas, garantindo controle quantitativo e rastreabilidade das distribuições realizadas.
 
